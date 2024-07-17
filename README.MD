@@ -19,3 +19,14 @@ This DSA sheet is designed by Arsh Goyal and contains 280+ DSA questions. Arsh D
 4. [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)
 5. [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k)
 6. [974. Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k)
+
+## DAY 3: 17/07/2024
+
+1. [1. Two Sum](https://leetcode.com/problems/two-sum)
+2. [15. 3Sum](https://leetcode.com/problems/3sum)
+3. [18. 4Sum](https://leetcode.com/problems/4sum)
+4. [12. Integer to Roman](https://leetcode.com/problems/integer-to-roman)
+5. [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix)
+6. [28. Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string)
+7. [680. Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii)
+8. [49. Group Anagrams](https://leetcode.com/problems/group-anagrams)
