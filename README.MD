@@ -30,3 +30,12 @@ This DSA sheet is designed by Arsh Goyal and contains 280+ DSA questions. Arsh D
 6. [28. Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string)
 7. [680. Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii)
 8. [49. Group Anagrams](https://leetcode.com/problems/group-anagrams)
+
+## DAY 4: 18/07/2024
+
+1. [162. Find Peak Element](https://leetcode.com/problems/find-peak-element)
+2. [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array)
+3. [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list)
+4. [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle)
+5. [Print Anagrams Together](https://www.geeksforgeeks.org/problems/print-anagrams-together/1)
+6. [151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string)
