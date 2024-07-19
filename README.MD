@@ -39,3 +39,12 @@ This DSA sheet is designed by Arsh Goyal and contains 280+ DSA questions. Arsh D
 4. [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle)
 5. [Print Anagrams Together](https://www.geeksforgeeks.org/problems/print-anagrams-together/1)
 6. [151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string)
+
+## DAY 5: 19/07/2024
+
+1. [83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
+2. [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list)
+3. [92. Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)
+4. [25. Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)
+5. [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers)
+6. [445. Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii)
