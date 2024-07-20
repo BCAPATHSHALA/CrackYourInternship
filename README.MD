@@ -48,3 +48,12 @@ This DSA sheet is designed by Arsh Goyal and contains 280+ DSA questions. Arsh D
 4. [25. Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)
 5. [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers)
 6. [445. Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii)
+
+## DAY 6: 20/07/2024
+
+1. [203. Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements)
+2. [234. Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list)
+3. [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists)
+4. [160. Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists)
+5. [148. Sort List](https://leetcode.com/problems/sort-list)
+6. [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list)
