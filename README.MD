@@ -57,3 +57,12 @@ This DSA sheet is designed by Arsh Goyal and contains 280+ DSA questions. Arsh D
 4. [160. Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists)
 5. [148. Sort List](https://leetcode.com/problems/sort-list)
 6. [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list)
+
+## DAY 7: 21/07/2024
+
+1. [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses)
+2. [84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)
+3. [200. Number of Islands](https://leetcode.com/problems/number-of-islands)
+4. [67. Add Binary](https://leetcode.com/problems/add-binary)
+5. [AGGRCOW - Aggressive cows](https://www.geeksforgeeks.org/problems/aggressive-cows/0)
+6. [Sort a linked list of 0s, 1s and 2s](https://www.geeksforgeeks.org/problems/given-a-linked-list-of-0s-1s-and-2s-sort-it/1)
