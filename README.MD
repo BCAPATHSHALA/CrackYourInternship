@@ -66,3 +66,7 @@ This DSA sheet is designed by Arsh Goyal and contains 280+ DSA questions. Arsh D
 4. [67. Add Binary](https://leetcode.com/problems/add-binary)
 5. [AGGRCOW - Aggressive cows](https://www.geeksforgeeks.org/problems/aggressive-cows/0)
 6. [Sort a linked list of 0s, 1s and 2s](https://www.geeksforgeeks.org/problems/given-a-linked-list-of-0s-1s-and-2s-sort-it/1)
+
+## DAY 8: 22/07/2024
+
+1. [Implement two stacks in an array](https://www.geeksforgeeks.org/problems/implement-two-stacks-in-an-array/1)
