@@ -70,3 +70,12 @@ This DSA sheet is designed by Arsh Goyal and contains 280+ DSA questions. Arsh D
 ## DAY 8: 22/07/2024
 
 1. [Implement two stacks in an array](https://www.geeksforgeeks.org/problems/implement-two-stacks-in-an-array/1)
+
+## DAY 9: 23/07/2024
+
+1. [496. Next Greater Element I](https://leetcode.com/problems/next-greater-element-i)
+2. [71. Simplify Path](https://leetcode.com/problems/simplify-path)
+3. [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures)
+4. [1209. Remove All Adjacent Duplicates in String II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/)
+5. [901. Online Stock Span](https://leetcode.com/problems/online-stock-span/)
+6. [The Celebrity Problem](https://www.geeksforgeeks.org/problems/the-celebrity-problem/1)
