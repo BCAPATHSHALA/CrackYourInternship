@@ -79,3 +79,12 @@ This DSA sheet is designed by Arsh Goyal and contains 280+ DSA questions. Arsh D
 4. [1209. Remove All Adjacent Duplicates in String II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/)
 5. [901. Online Stock Span](https://leetcode.com/problems/online-stock-span/)
 6. [The Celebrity Problem](https://www.geeksforgeeks.org/problems/the-celebrity-problem/1)
+
+## DAY 10: 24/07/2024
+
+1. [628. Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers)
+2. [134. Gas Station](https://leetcode.com/problems/gas-station)
+3. [239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)
+4. [200. Number of Islands](https://leetcode.com/problems/number-of-islands/)
+5. [143. Reorder List](https://leetcode.com/problems/reorder-list)
+6. [Print all the duplicate characters in a string](https://www.geeksforgeeks.org/print-all-the-duplicates-in-the-input-string/)
