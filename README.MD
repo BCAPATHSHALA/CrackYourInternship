@@ -88,3 +88,13 @@ This DSA sheet is designed by Arsh Goyal and contains 280+ DSA questions. Arsh D
 4. [200. Number of Islands](https://leetcode.com/problems/number-of-islands/)
 5. [143. Reorder List](https://leetcode.com/problems/reorder-list)
 6. [Print all the duplicate characters in a string](https://www.geeksforgeeks.org/print-all-the-duplicates-in-the-input-string/)
+
+## DAY 11: 25/07/2024
+
+1. [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree)
+2. [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree)
+3. [110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree)
+4. [236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree)
+5. [112. Path Sum](https://leetcode.com/problems/path-sum)
+6. [113. Path Sum II](https://leetcode.com/problems/path-sum-ii) (Solved in bonus🙋🏻‍♂️)
+7. [437. Path Sum III](https://leetcode.com/problems/path-sum-iii)
